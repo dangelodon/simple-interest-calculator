@@ -1,2 +1,2 @@
 # simple-interest-calculator
-project for coursera
+A bash script to calculate simple interest.
